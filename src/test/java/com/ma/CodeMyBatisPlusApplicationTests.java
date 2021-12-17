@@ -8,6 +8,7 @@ class CodeMyBatisPlusApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
